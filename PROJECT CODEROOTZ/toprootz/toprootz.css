@@ -1,0 +1,28 @@
+hr{
+    
+   height: 2px;}
+
+   #p1{font-size: 40px;}
+
+   #p2{font-size: 20px;}
+
+   
+   #tb1{background-color:#EEE8DF;
+         width: 1000px;}
+#tb2{background-color:#24b5ab;
+    width: 1000px;
+    }
+   .x{ position: absolute;
+    left: 828px;
+}
+.y{ position: absolute;
+    left: 660px;
+    top:400px;
+    margin-left: 150;
+}
+.a{
+    position: absolute;
+    top: 63px;
+    right: 380px;
+}
+.a1{}
